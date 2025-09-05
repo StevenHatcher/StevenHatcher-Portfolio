@@ -1,0 +1,10 @@
+[
+  { "id": "window", "tag": "Projects", "title": "Sunlight Simulating Window", "link": "https://github.com/StevenHatcher/SunsetWindow", "image": "/assets/images/portfolio/SunsetWindow/SunsetThumbnail.png", "skills":["C++, ESP-32, JSON, REST API, Hardware design"]},
+  { "id": "skill_detect", "tag": "Projects", "title": "User Statistics Tracker", "link": "https://github.com/StevenHatcher/SkillDetect", "image": "/assets/images/portfolio/SkillDetect/TrackerThumbnail.png", "skills":["Python, Numpy, Pyautogui, REST API"]},
+  { "id": "fortnite_stats", "tag": "Projects", "title": "Statistic Acquisition Library", "link": "https://github.com/StevenHatcher/FortniteStats", "image": "/assets/images/portfolio/SkillDetect/ocr_training.png", "skills":["Python,ChromeDriver,REST API"]},
+  { "id": "UofR_sustainability", "tag": "Articles", "title": "U of R Sustainability Profile", "link": "https://www.uregina.ca/sustainability/steven-hatcher.html", "image": "/assets/images/SustainabilityThumbnail.png", "skills":["Article"]},
+  { "id": "pomodoro", "tag": "Projects", "title": "LED Pomodoro Timer", "link": "https://github.com/StevenHatcher/PomodoroLights", "image": "/assets/images/SustainabilityProfile.png", "skills":["C++, Arduino, Wiring & Soldering"]},
+  { "id": "microgrid", "tag": "Projects", "title": "Microgrid Designer", "link": "https://github.com/StevenHatcher/Microgrid", "image": "/assets/images/portfolio/Microgrid/MicrogridThumbnail.png", "skills":["C++, .NET, Visual Studio"]},
+  
+  { "id": "portfolio", "tag": "Projects", "title": "Personal Portfolio Website", "link": "https://stevenhatcher.com", "image": "/assets/images/portfolio/website/website_image.png", "skills":["React, Tailwind, NodeJS, HTML, CSS, JavaScript"]}
+]

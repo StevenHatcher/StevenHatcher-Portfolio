@@ -1,0 +1,66 @@
+[
+    {
+        "title": "B.Sc. Computer Science",
+        "employer": "University of Regina",
+        "location": "Dec. 2025 - Regina, SK.",
+        "skills": [],
+        "responsibilities":[
+            
+        ]
+    },
+    {
+        "title": "Coding Instructor",
+        "employer": "Code Ninjas",
+        "location": "Regina, SK.",
+        "skills": [],
+        "responsibilities":[
+            "Delivered coding instruction to children aged 5-15 in multiple programming languages—including block-based tools, JavaScript, C#, and Lua.",
+            "Taught structured lessons to classes of students of varying ages and skill levels, ensuring lesson content was accessible to each student while progressing the knowledge and experience of the class as a whole.",
+            "Designed interactive curricula and guided students through applying new concepts by building games in various platforms and frameworks, including Unity, Roblox Studio, Microsoft MakeCode Arcade, etc."
+        ]
+    },
+
+    {
+        "title": "Centre Director",
+        "employer": "Code Ninjas",
+        "location": "Regina, SK.",
+        "skills": ["a", "b", "c"],
+        "responsibilities":[
+            "Managed the technical and managerial operations of the Code Ninjas center, ensuring smooth and efficient functioning.",
+            "Increased customer retention by building positive relationships with customers, addressing inquiries and concerns promptly and professionally.",
+            "Contributed innovative ideas to enhance students’ educational and entertainment experience.",
+            "Exceeded monthly membership sales goals by effectively promoting our programs to potential customers through phone and email communication."
+        ]
+    },
+
+    {
+        "title": "Embedded System Designer",
+        "employer": "Independent",
+        "location": "Regina, SK.",
+        "skills": ["C / C++", "", ""],
+        "responsibilities":[
+            "Designed, built, and coded a network of embedded systems, integrating an intermediary controller to facilitate full-duplex serial communication between the user’s personal computer and a scalable number of self-made peripheral devices.",
+            "Designed wiring schematics and PCBs for the controller and multiple models of peripheral devices using KiCad. Programmed Serial communication between controller and peripheral devices using Universal Asynchronous Receiver/Transmitter (UART) protocol and designed an acknowledgement system to ensure reliable data transfer.",
+            "Programmed serial communication between the peripheral devices and their auxiliary hardware using the Serial Peripheral Interface (SPI).",
+            "Created a dynamic user-facing Python app (UI built in Flet), allowing users to modify the settings of the peripheral devices. After confirming validity, settings are transmitted to the controller unit, which then distributes them to the appropriate peripheral device(s). The settings are then stored locally in the flash memory of the peripheral device(s), allowing them to store their settings even when powered off.",
+            "Utilized pulldown resistors to develop auto-detection with port identification when a peripheral device is connected to the controller. The settings that are stored on the peripheral device then get sent to the Python software, storing them in a JSON configuration file, and sending relevant data to the controller for each active peripheral device connected to the controller based on their settings.",
+            "Personally designed custom cables to connect the controller module to the peripheral devices, allowing for quick connections and the potential for integrating couplers.",
+            "Accurately measured the designed hardware, designed 3D models to house the components in Autodesk Fusion, sliced the models in Cura, and 3D printed them."
+        ]
+    },
+
+    {
+        "title": "Frontend Developer",
+        "employer": "Independent",
+        "location": "Regina, SK.",
+        "skills": ["React", "Tailwind", "JavaScript", "HTML"],
+        "responsibilities":[
+            "Personally developed personal website from scratch, utilizing React to design components that are adaptable and reusable - increasing the websites modularity. Implemented React-router NavLinks to allow for page-access using specific URL's, enhancing the websites Single-Page Architecture.",
+            "Implemented Tailwind CSS Framework for website styling, guaranteeingn the website is displayed as desired on all devices. Used to complement the flexible component-level design promoted by React.",
+            "Developed traversable portfolio by enforcing React States to handle the currently selected tag and active page, and React Pagination for navigating through pages.  scales based on display-size, ensuring all items are always displayed properly.",
+            "Created JSON data structures to automate content-scaling - Portfolio projects are stored as objects in a data structure, allowing for frictionless insertion, updating, and removal of projects. Projects are given personal IDs and shared tags, allowing them to be part of a group while remaining independent objects."
+        ]
+    }
+
+
+]

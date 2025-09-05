@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Frontend Development",
+        "description": "Building dynamic high-performance UI with a focus on balancing functionality and UX.",
+        "topic": "Fullstack",
+        "skills": [
+            {
+                "title": "HTML & CSS",
+                "time": "9 Years, 4 Months"
+            },
+            {
+                "title": "JavaScript",
+                "time": "9 Years, 4 Months"
+            },
+            {
+                "title": "TypeScript",
+                "time": "1 Year"
+            },
+            {
+                "title": "React",
+                "time": "4 Months"
+            },
+            {
+                "title": "Tailwind & Bootstrap",
+                "time": "1 Year"
+            }
+        ]
+    },
+    {
+        "title": "Backend Development",
+        "description": "Handling database management and operations, server-side logic, and API integration.",
+        "topic": "Fullstack",
+        "skills": [
+            {
+                "title": "Python",
+                "time": "2 Years"
+            },
+            {
+                "title": "PHP",
+                "time": "6 Years"
+            },
+            {
+                "title": "SQL",
+                "time": "6 Years"
+            },
+            {
+                "title": "Rest APIs",
+                "time": "2 Years"
+            }
+        ]
+    },
+    {
+        "title": "Embedded System Development",
+        "description": "Expanding various microntroller architectures to bring code to life. Low-level programming.",
+        "topic": "Embedded",
+        "skills": [
+            {
+                "title": "ESP-32",
+                "time": "1 Year"
+            },
+            {
+                "title": "C++",
+                "time": "7 Years"
+            },
+            {
+                "title": "Arduino + IDE",
+                "time": "1 Year"
+            }
+        ]
+    },
+    {
+        "title": "Hardware Design",
+        "description": "Designing hardware systems and PCBs with keen interest in implementing serial communication protocols",
+        "topic": "Embedded",
+        "skills": [
+            {
+                "title": "Serial Comm.",
+                "time": "4 Months"
+            },
+            {
+                "title": "Autodesk Fusion",
+                "time": "2 Months"
+            },
+            {
+                "title": "KiCAD",
+                "time": "3 Months"
+            }
+            
+        ]
+    }
+    
+]

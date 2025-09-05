@@ -1,0 +1,7 @@
+[
+  { "title": "Sunlight Simulating Window", "link": "https://github.com/StevenHatcher/SunsetWindow", "image": "/assets/images/portfolio/SunsetWindow/SunsetThumbnail.png", "skills":["C++, ESP-32, JSON, REST API, Hardware design"]},
+  { "title": "Automated Statistics Tracker", "link": "https://stevenhatcher.com/projects/sunsetwindow.html", "image": "/assets/images/portfolio/SkillDetect/TrackerThumbnail.png", "skills":["Python, Numpy, Pyautogui, REST API"]},
+  { "title": "U of R Sustainability Profile", "link": "https://www.uregina.ca/sustainability/steven-hatcher.html", "image": "/assets/images/SustainabilityThumbnail.png", "skills":["Article"]},
+  { "title": "Microgrid Designer", "link": "https://github.com/StevenHatcher/Microgrid", "image": "/assets/images/portfolio/Microgrid/MicrogridThumbnail.png", "skills":["C++, .NET, Visual Studio"]}
+  
+]
